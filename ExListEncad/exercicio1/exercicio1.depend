@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1554248343 source:c:\users\daniel\documents\github\estruturadedados\exlistencad\exercicio1\funcoesexercicios.c
+
+1554251517 source:c:\users\daniel\documents\github\estruturadedados\exlistencad\exercicio1\lista.c
+	<stdio.h>
+	<stdlib.h>
+
+1554251384 source:c:\users\daniel\documents\github\estruturadedados\exlistencad\exercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"funcoesAux.h"
+	"funcoesExercicios.h"
+
+1554251567 c:\users\daniel\documents\github\estruturadedados\exlistencad\exercicio1\lista.h
+
+1554248223 c:\users\daniel\documents\github\estruturadedados\exlistencad\exercicio1\funcoesaux.h
+
+1554248223 c:\users\daniel\documents\github\estruturadedados\exlistencad\exercicio1\funcoesexercicios.h
+

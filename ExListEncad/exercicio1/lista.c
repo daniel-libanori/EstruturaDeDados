@@ -2,9 +2,10 @@
 #include <stdlib.h>
 
 
-typedef struct lista{
+/*typedef struct lista{
 
     int valor;
     Lista* prox;
 
 } Lista;
+*/
